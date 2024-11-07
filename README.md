@@ -1,2 +1,1 @@
-# odlmin.github.io
-Granit
+
